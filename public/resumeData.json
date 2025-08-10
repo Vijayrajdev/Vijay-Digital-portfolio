@@ -1,16 +1,15 @@
 {
   "link": "https://images.unsplash.com/photo-1502481851512-e9e2529bfbf9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2069&q=80",
   "main": {
-    "name": "Vijay Raj",
-    "occupation": "Full Stack Developer",
-    "description": "I eat, sleep and breathe React",
+    "name": "Vijay Raj C K",
+    "occupation": "Full Stack Developer | Data Engineer | Cloud Data Engineer | Data Analyst",
+    "description": "I eat, sleep, and breathe React, data pipelines, and cloud solutions",
     "image": "Vjprofile.png",
-    "bio": "Hi there! I am Vijay! You might also know me as Vijayrajdev. I have been coding for over 1.5 years now. As a Full Stack developer I have worked on both mini projects and large clone projects. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. Along with these i'm also an Electronics engineer pursuing my BE degree in Anna university affilated college,chennai.",
+    "bio": "Hi, I’m Vijay Raj, but you can call me Raj. I’m a Full Stack Developer Intern at Dev Town and have been working as a Data Engineer, Cloud Data Engineer, and Data Analyst at Ingram Micro for the past 2 years. With over 4 years of coding experience, I’ve worked on everything from small projects to large-scale applications. Along the way, I’ve discovered my passion for helping aspiring developers grow and achieve their goals. I hold a Bachelor’s degree in Electronics and Communication Engineering from an Anna University–affiliated college in Chennai.",
     "contactmessage": "Get in touch with me to be a part of developer journey !",
     "email": "vijayck2002@gmail.com",
     "phone": "+91 9150199456",
     "address": {
-      "street": "Velachery",    
       "city": "Chennai",
       "state": "Tamil Nadu",
       "zip": "600100"
@@ -45,32 +44,32 @@
     "education": [
       {
         "school": "Anna University - Chennai",
-        "degree": "Bachelor's Degree, ECE",
+        "degree": "Bachelor's Degree in Electronics and Communication Engineering",
         "graduated": "July 2023",
-        "description": "I am a dedicated engineering graduate from JCE, achieving a First-Class CGPA of 9.5. Honored as the Student of the Year 2023, my academic excellence reflects a commitment to excellence and a passion for continuous learning."
+        "description": "Graduated with First-Class Honours (CGPA 9.5) from Jerusalem College of Engineering, affiliated with Anna University. Awarded 'Student of the Year 2023' and 'Best Outgoing Student' for the 2019–2023 batch in recognition of academic excellence, leadership, and dedication to learning."
       }
     ],
     "work": [
       {
         "company": "DevTown",
-        "title": "Full Stack Developer",
+        "title": "Full Stack Developer Intern",
         "years": "Sep 2021 - Dec 2021",
-        "description": "Cloning all the apps possible. On the way to clone the world!"
+        "description": "Worked on building and cloning a variety of applications, gaining hands-on experience with modern web technologies and full-stack development."
       },
       {
-        "company": "Ingram Micro TCOE",
-        "title": "Data Engineer",
-        "years": "July 2023 - present",
-        "description": "Playing with all the data available. On the way to obtain data of the world!"
+        "company": "Ingram Micro Platform Technology India Private Limited - Chennai",
+        "title": "Data Engineer | Cloud Data Engineer | Data Analyst",
+        "years": "July 2023 - Present",
+        "description": "Designing, building, and optimizing data pipelines, cloud solutions, and analytics workflows to drive business insights. Recognized with the 'Dashing Debut Award' and 'Supernova Excellence Award' for exceptional performance and contribution."
       }
     ],
     "skills": [
       {
-        "name": "ReactJs",
+        "name": "React.js",
         "level": "95%"
       },
       {
-        "name": "Next Js",
+        "name": "Next.js",
         "level": "95%"
       },
       {
@@ -78,11 +77,11 @@
         "level": "70%"
       },
       {
-        "name": "Git",
-        "level": "70%"
+        "name": "JavaScript",
+        "level": "85%"
       },
       {
-        "name": "JavaScript",
+        "name": "SQL",
         "level": "85%"
       },
       {
@@ -90,11 +89,43 @@
         "level": "95%"
       },
       {
-        "name": "SQL",
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "Google Cloud Platform (GCP)",
+        "level": "80%"
+      },
+      {
+        "name": "BigQuery",
         "level": "85%"
       },
       {
-        "name": "Google Cloud",
+        "name": "Data Engineering",
+        "level": "90%"
+      },
+      {
+        "name": "ETL & Data Pipelines",
+        "level": "90%"
+      },
+      {
+        "name": "Cloud Data Engineering",
+        "level": "85%"
+      },
+      {
+        "name": "Airflow",
+        "level": "80%"
+      },
+      {
+        "name": "APIs & Integrations",
+        "level": "85%"
+      },
+      {
+        "name": "Data Analysis",
+        "level": "85%"
+      },
+      {
+        "name": "Machine Learning (Basics)",
         "level": "65%"
       }
     ]
