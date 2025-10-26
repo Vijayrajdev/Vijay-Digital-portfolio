@@ -18,24 +18,19 @@
     "resumedownload": "/Resume/Vijay's Resume.pdf",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/people/Vijay-Raj/100050050001319/",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/vijay-raj-02/",
         "className": "fa fa-linkedin"
       },
       {
-        "name": "instagram",
-        "url": "https://www.instagram.com/vjxx_rj/",
-        "className": "fa fa-instagram"
-      },
-      {
         "name": "github",
         "url": "https://github.com/Vijayrajdev",
         "className": "fa fa-github"
+      },
+      {
+        "name": "Google",
+        "url": "https://www.skills.google/public_profiles/98930fa2-bc35-4039-b4f0-135dcc0d8227",
+        "className": "fa fa-code"
       }
     ]
   },
